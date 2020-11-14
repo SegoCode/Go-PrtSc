@@ -7,6 +7,7 @@ Take screenshots with go in windows 10, simply implementation using windows libr
 ## Usage & info
 
 Download a release and run binary.
+
 Press `PrtSc` and click on the notification to open the screenshot.
 
 | Key                      | Description                                                 |
