@@ -13,6 +13,7 @@ Press `PrtSc` and click on the notification to open the screenshot.
 | Key                      | Description                                                 |
 |--------------------------|-------------------------------------------------------------|
 | `PrtSc`                  | Take screenshot and show windows notification               |
+| `Ctrl+C`                 | During the notification, you can copy the screenshot        |
 
 | Image name               |
 |--------------------------|
