@@ -15,14 +15,8 @@ Press `PrtSc` and click on the notification to open the screenshot.
 | `PrtSc`                  | Take screenshot and show windows notification               |
 | `Ctrl+C`                 | During the notification, you can copy the screenshot        |
 
-| Image name               |
-|--------------------------|
-| `monitorNumber_id_yearMonthDayHourMinutesSeconds.png` | 
+Image name: `monitorNumber_id_yearMonthDayHourMinutesSeconds.png` 
 
-| Saved image path         |
-|--------------------------|
-| `%USERPROFILE%/Pictures` | 
-
- *Sorry, image save path cant be changed.*
+Saved image path: `%USERPROFILE%/Pictures` *Sorry, image save path cant be changed.*
  
 For run Go PrtSc with windows startup, move binary into `%APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup\`
